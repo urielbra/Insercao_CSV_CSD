@@ -1,7 +1,7 @@
 import Sequelize from 'sequelize';
 
-export const sequelize = new Sequelize('database-pollen-dev', 'postgres', 'cefetSD_2021', {
-    host: 'database-sd-cefet.crorjkbxjyvv.us-east-2.rds.amazonaws.com',
+export const sequelize = new Sequelize('PUT_CREDS_HERE', 'PUT_CREDS_HERE', 'PUT_CREDS_HERE', {
+    host: 'PUT_CREDS_HERE',
     port: 5432,
     dialect: 'postgres' 
 });
