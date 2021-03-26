@@ -1,7 +1,8 @@
 ## Script de Inserção de Banco por CSV
 
 Para inserção no banco de dados das informações das planilhas preenchidas pelos aeropalinológicos, deve se seguir o formato exato da planilha Excel abaixo:
-https://www.notion.so/Banco-de-dados-072f1720837f490f83766a64978cc1b7#6fd7dc5979be4b8690c9451ddffd6159
+
+https://www.notion.so/signed/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe19f3863-dd93-4e38-82ad-635b3ed5d3cb%2Fmodelo-planilha-insercao.xlsx?table=block&id=65c9225d-ef68-4a6d-9eb2-55cc5a47db47&name=modelo-planilha-insercao.xlsx&userId=b49e438f-8f0c-40fb-b3d5-dc9fd5a4776c&cache=v2
 
 As primeiras colunas são para informações gerais sobre a varredura (A a H). As demais colunas, seguem o formato da planilha enviada pela professora Estefanía (primeira imagem da documentação).
 
