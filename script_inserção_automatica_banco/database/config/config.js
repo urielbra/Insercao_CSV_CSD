@@ -1,11 +1,11 @@
 module.exports = {
 
   development: {
-    username: 'postgres',
-    password: 'cefetSD_2021',
-    database: 'database-polem-dev',
-    host: 'database-sd-cefet.crorjkbxjyvv.us-east-2.rds.amazonaws.com',
-    dialect: 'postgres'
+    username: 'PUT_CREDS_HERE',
+    password: 'PUT_CREDS_HERE',
+    database: 'PUT_CREDS_HERE',
+    host: 'PUT_CREDS_HERE',
+    dialect: 'PUT_CREDS_HERE'
   },
   test: {
     username: 'postgres',
@@ -15,11 +15,11 @@ module.exports = {
     dialect: 'postgres'
   },
   production: {
-    username: 'postgres',
-    password: 'cefetSD_2021',
-    database: 'database-polem-prd',
-    host: 'database-sd-cefet.crorjkbxjyvv.us-east-2.rds.amazonaws.com',
-    dialect: 'postgres'
+    username: 'PUT_CREDS_HERE',
+    password: 'PUT_CREDS_HERE',
+    database: 'PUT_CREDS_HERE',
+    host: 'PUT_CREDS_HERE',
+    dialect: 'PUT_CREDS_HERE'
   }
 
 };
